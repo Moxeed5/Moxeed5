@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **C#**
 
-- 📫 How to reach me [**maxmmorgan93@gmail.com**](https://maxmorgancodes.com/)
+- 📫 How to reach me [**My website's contact me form**](https://maxmorgancodes.com/)
 
 - 📄 Know about my experiences [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
 
