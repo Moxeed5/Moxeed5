@@ -1,20 +1,16 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
-<h3 align="center">A passionate backend developer from Alabama</h3>
+<h3 align="center">Golang dev</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif">
-- 🌱 I’m currently learning Go and continuing to study the .NET framework
+- 🌱 Currently learning docker-compose and mux
 
-- 👨‍💻 All of my projects are available in [https://github.com/Moxeed5?tab=repositories](https://github.com/Moxeed5?tab=repositories)
-
-- 📝 I am actively seeking opportunties [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
-
-- 💬 Ask me about **C#**
+- 💬 Ask me about **Go**
 
 - 📫 How to reach me [**My website's contact me form**](https://maxmorgancodes.com/)
 
 - 📄 Know about my experiences [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
 
-- ⚡ Fun fact **I like to run!**
+- ⚡ Fun fact **Grug try code good**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
